@@ -1,0 +1,2 @@
+start_x,start_y,dest_x,dest_y,start_time,end_time,start_day,end_day,ev_battery_start,ev_battery_end,ev_battery,ev_range,ev_speed
+144.9411477590884,-37.90040995633169,144.9411477590884,-37.90040995633169,0,1440,540,1020,70,0,70,400,60
